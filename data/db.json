@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What is the best selling album of all time from 1976 to 2018?",
+            "correct_answer": "Thriller",
+            "incorrect_answers": [
+                "Back in Black",
+                "Abbey Road",
+                "The Dark Side of the Moon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which band released songs suchs as &quot;Rio&quot;, &quot;Girls on Film&quot;, and &quot;The Reflex&quot;?",
+            "correct_answer": "Duran Duran",
+            "incorrect_answers": [
+                "The Cure",
+                "New Order",
+                "Depeche Mode"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What was the release date of &quot;Grand Theft Auto IV&quot;?",
+            "correct_answer": "April 29, 2008",
+            "incorrect_answers": [
+                "May 21, 2009",
+                "June 22, 2010",
+                "July 28, 2008"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was the game &quot;Fallout&quot; released?",
+            "correct_answer": "1997",
+            "incorrect_answers": [
+                "1998",
+                "1999",
+                "1996"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of these is the name of the largest city in the US state Tennessee?",
+            "correct_answer": "Memphis",
+            "incorrect_answers": [
+                "Thebes",
+                "Alexandria",
+                "Luxor"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which English guitarist has the nickname &quot;Slowhand&quot;?",
+            "correct_answer": "Eric Clapton",
+            "incorrect_answers": [
+                "Mark Knopfler",
+                "Jeff Beck",
+                "Jimmy Page"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which band recorded the album &quot;Parallel Lines&quot;?",
+            "correct_answer": "Blondie",
+            "incorrect_answers": [
+                "Paramore",
+                "Coldplay",
+                "The Police"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Waluigi&#039;s first appearance was in what game?",
+            "correct_answer": "Mario Tennis 64 (N64)",
+            "incorrect_answers": [
+                "Wario Land: Super Mario Land 3",
+                "Mario Party (N64)",
+                "Super Smash Bros. Ultimate"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these Starbound races has a Wild West culture?",
+            "correct_answer": "Novakid",
+            "incorrect_answers": [
+                "Avian",
+                "Human",
+                "Hylotl"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Hitman&quot; series, what is the name of the main character?",
+            "correct_answer": "Agent 47",
+            "incorrect_answers": [
+                "Agent 27",
+                "Agent Smith",
+                "Agent 67"
+            ]
+        }
+    ]
+}
